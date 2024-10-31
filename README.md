@@ -1,11 +1,11 @@
 Hi 👋 My name is Oluwapelumi Sijuade
 ====================================
 
-SWE Undergraduate
------------------
+SWE major @Babcock University
+-----------------------------
 
-I major in SWE @Babcock University || I have a huge interest in Cloud Computing, AI, & Cybersecurity || I build and test Software Applications
+a driven Software Engineering Undergraduate at Babcock University, passionate about harnessing technology to drive innovation. With a strong foundation in computer science and a keen interest in Cloud Computing and Data Engineering, I'm dedicated to building robust, scalable, and user-centric software applications and solutions.
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [oluwapeluade@gmail.com](mailto:oluwapeluade@gmail.com)
-* 🧠  I'm learning Networking, Python Network Programming, Linux, Network Automation using Python
+*   🌍  I'm based in Nigeria
+*   ✉️  You can contact me at [oluwapeluade@gmail.com](mailto:oluwapeluade@gmail.com)
+*   ⚡  People call me Sugar Daddy of Software Engineering or Chocolate Zaddy
